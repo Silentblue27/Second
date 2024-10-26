@@ -8,3 +8,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` C++
 int x=10;
 ```
+- [1] Turn on GitHub Pages
+- [2] Outline my portfolio
+- [3] Introduce myself to the world
